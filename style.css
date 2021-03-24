@@ -1,0 +1,30 @@
+@font-face {
+  	font-family: "LemonJelly";
+	src : url(font/LemonJelly.ttf);
+}
+body{
+	background-color: #ffe6e6;
+}
+img{
+	position: absolute;
+	text-align: center;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+div{
+	font-family: "LemonJelly";
+	color: white;
+	position: absolute;
+	text-align: center;
+	text-shadow: 5px 5px #000000;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+h1{
+	font-size: 4vw;
+}
+.you{
+	font-size: 6vw;
+}
